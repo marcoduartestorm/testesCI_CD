@@ -2,9 +2,9 @@ name: Java CI/CD
 
 on:
   push:
-    branches: 'main2'
+    branches: 'main'
   pull_request:
-    branches: 'main2'
+    branches: 'main'
 
 jobs:
   build:
